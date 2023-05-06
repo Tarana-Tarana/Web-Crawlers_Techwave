@@ -12,6 +12,6 @@ BookAccomodation is the main package consisting of modules like: Book.py (contai
 # Techstacks Used
 Python, Selenium, Numpy, HTML, CSS, Re and Tkinter
 
-# Hotel Booking Website
+# Booking.com Website
 ![image](https://user-images.githubusercontent.com/127955895/236616391-6f38ff32-5629-4ef4-bd7e-4e4d2020f75c.png)
 
